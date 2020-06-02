@@ -9,6 +9,8 @@
   "author": "wyh",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "babel-core": "^6.26.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^7.0.1"
   }
 }
